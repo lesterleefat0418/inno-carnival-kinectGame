@@ -1,0 +1,9 @@
+{
+    "gameTime": 45,
+    "successMarkLevel": 60,
+    "itemMarks": {
+        "type1": 5,
+        "type2": 2,
+        "type3": -1
+    }
+}
